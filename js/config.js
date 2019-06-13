@@ -88,9 +88,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "fdFvJGKzPNQ", name: "Yaranamadım"},
-	{youtube: "w4_GIrAoKJg", name: "Çare Gelmez"},
-	{youtube: "S3gzlsfFZo0", name: "Adaletin Bumu Dünya"}
+	{ogg: "songs/Adaletin Bu mu Dünya.ogg", name: "Adaletin Bu mu Dünya"},
+	{ogg: "songs/Çare gelmez.ogg", name: "Çare gelmez"},
+	{ogg: "songs/Kiraz Aldım Dikmeden.ogg", name: "Kiraz Aldım Dikmeden"},
+	{ogg: "songs/Yaranamadım.ogg", name: "Yaranamadım"}
 ];
 
 /*Random music order?*/
