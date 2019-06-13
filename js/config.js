@@ -108,7 +108,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Serverin Tadını Çıkarın",
 "Bize katıldığınız için teşekkür ederiz.",
-"Arkaplandaki şarkıları dinleyebilirsiniz."
+"Discordumuza Katılabilirsiniz."
+"Kurallara uyarsanız iyi vakit geçirirsiniz."
+"Güzel build yapana bloody'nin ödülü var."
 ];
 
 /*Random message order?*/
