@@ -80,7 +80,7 @@ function setMapname(mapname) {
 }
 
 function setServerName(servername) {
-	$("#title").html(servername);
+	$("#title").html(servername); Vatan Official
 }
 
 function setMusicName(name) {
