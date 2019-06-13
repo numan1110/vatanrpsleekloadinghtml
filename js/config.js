@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "The Cook Network";
+var l_serverName = "Vatan Darkrp";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,12 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/1.jpg",
+	"backgrounds/images/2.jpg",
+	"backgrounds/images/3.jpg",
+	"backgrounds/images/4.jpg",
+	"backgrounds/images/5.jpg",
+	"backgrounds/images/6.jpg"
 ];
 
 /*Random background images order?*/
@@ -85,10 +88,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "fdFvJGKzPNQ", name: "Yaranamadım"},
+	{youtube: "w4_GIrAoKJg", name: "Çare Gelmez"},
+	{youtube: "S3gzlsfFZo0", name: "Adaletin Bumu Dünya"}
 ];
 
 /*Random music order?*/
@@ -103,9 +105,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Serverin Tadını Çıkarın",
+"Bize katıldığınız için teşekkür ederiz.",
+"Arkaplandaki şarkıları dinleyebilirsiniz."
 ];
 
 /*Random message order?*/
