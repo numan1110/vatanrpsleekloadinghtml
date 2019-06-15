@@ -50,12 +50,12 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/1.jpg",
-	"backgrounds/images/2.jpg",
-	"backgrounds/images/3.jpg",
-	"backgrounds/images/4.jpg",
-	"backgrounds/images/5.jpg",
-	"backgrounds/images/6.jpg"
+	"backgrounds/image/1.jpg",
+	"backgrounds/image/2.jpg",
+	"backgrounds/image/3.jpg",
+	"backgrounds/image/4.jpg",
+	"backgrounds/image/5.jpg",
+	"backgrounds/image/6.jpg"
 ];
 
 /*Random background images order?*/
