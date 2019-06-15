@@ -48,7 +48,8 @@ video {
 	width: 100%;
 	top: 50%;
 	text-align: bottom;
-	margin-bottom: 100px;
+	left: 550px;
+	top: 550px;
 	font-size: 20px;
 	line-height: 18px;
 }
