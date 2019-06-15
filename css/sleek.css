@@ -48,13 +48,13 @@ video {
 	width: 100%;
 	top: 50%;
 	text-align: bottom;
-	margin-top: -25px;
+	margin-top: -55px;
 	font-size: 20px;
 	line-height: 18px;
 }
 
 #loading {
-	display: none;
+	display: inline-block;
 	text-align: bottom;
 	width: 80%;
 	height: 4px;
